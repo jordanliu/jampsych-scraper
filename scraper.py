@@ -40,6 +40,7 @@ for row in soup.findAll('tr'):
         location.append(cells[5].getText())
     
 df = pd.DataFrame()
+df.index.name = "id"
 df['Surname'] = surname
 df['First Name'] = firstname
 df['Specialization'] = specialization
