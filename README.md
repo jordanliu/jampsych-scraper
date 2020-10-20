@@ -1,7 +1,7 @@
 <h1 align="center">
 JamPsych Scraper
 </h1>
-Web scraper for (http://jampsych.com)[https://jampsych.com] to retreive data of registered psychologists and counsellors in Jamaica using Selenium & BeautifulSoup.
+Web scraper for http://jampsych.com to retreive data of registered psychologists and counsellors in Jamaica using Selenium & BeautifulSoup.
 
 ## 🚀 Quick start
 
